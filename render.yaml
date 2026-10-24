@@ -8,4 +8,4 @@ services:
       - key: OPENROUTER_API_KEY
         sync: false
       - key: MODEL_NAME
-        value: z-ai/glm-5.3-flash
+        value: openai/gpt-6-luna
