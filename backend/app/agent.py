@@ -98,7 +98,7 @@ def make_tools(store: TrialStore):
 def build_model() -> ChatOpenAI:
     """OpenRouter over standard chat completions."""
     return ChatOpenAI(
-        model=os.getenv("MODEL_NAME", "z-ai/glm-5.3-flash"),
+        model=os.getenv("MODEL_NAME", "openai/gpt-6-luna"),
         api_key=os.getenv("OPENROUTER_API_KEY"),
         base_url=os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1"),
         temperature=0.2,
