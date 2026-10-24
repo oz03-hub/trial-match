@@ -1,0 +1,15 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TrialMatch logo">
+  <!-- Rounded blue tile -->
+  <rect x="1" y="1" width="30" height="30" rx="8" fill="#20558a"/>
+  <rect x="1" y="1" width="30" height="30" rx="8" fill="url(#g)" fill-opacity="0.25"/>
+  <!-- Heart (care / health) -->
+  <path d="M16 25.5c-0.4 0-0.8-0.14-1.1-0.42C10.8 21.3 7.5 18.4 7.5 14.6c0-2.3 1.8-4.1 4.1-4.1 1.6 0 3.1 0.9 3.9 2.3 0.8-1.4 2.3-2.3 3.9-2.3 2.3 0 4.1 1.8 4.1 4.1 0 3.8-3.3 6.7-7.4 10.48-0.3 0.28-0.7 0.42-1.1 0.42z" fill="#ffffff" fill-opacity="0.95"/>
+  <!-- Pulse / heartbeat line across the heart (the "match" / signal) -->
+  <path d="M9.5 16.2h3.1l1.4-3 2.6 6 1.5-3h4.4" stroke="#20558a" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <defs>
+    <linearGradient id="g" x1="1" y1="1" x2="31" y2="31" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#97b9da"/>
+      <stop offset="1" stop-color="#20558a"/>
+    </linearGradient>
+  </defs>
+</svg>

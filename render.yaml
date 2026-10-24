@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: trialmatch
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        value: z-ai/glm-5.3-flash

@@ -1,0 +1,11 @@
+facility_id,facility_name,city,county,hospital_type,ownership,emergency,overall_rating
+220071,MASSACHUSETTS GENERAL HOSPITAL,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220015,"COOLEY DICKINSON HOSPITAL INC,THE",NORTHAMPTON,HAMPSHIRE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220077,BAYSTATE MEDICAL CENTER,SPRINGFIELD,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220025,HOLYOKE MEDICAL CENTER,HOLYOKE,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220033,BOSTON CHILDREN'S HOSPITAL,BOSTON,SUFFOLK,Childrens,Voluntary non-profit - Private,Yes,Not Available
+220073,UMASS MEMORIAL MEDICAL CENTER/UNIVERSITY CAMPUS,WORCESTER,WORCESTER,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220110,BRIGHAM AND WOMEN'S HOSPITAL,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220086,BETH ISRAEL DEACONESS MEDICAL CENTER,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+224038,"WALDEN BEHAVIORAL CARE, LLC",DEDHAM,NORFOLK,Psychiatric,Government - Federal,No,Not Available
+220999,THE SHRINERS' HOSPITAL FOR CHILDREN - BOSTON,BOSTON,SUFFOLK,Childrens,Voluntary non-profit - Private,Yes,Not Available

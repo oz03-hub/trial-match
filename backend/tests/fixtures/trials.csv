@@ -1,0 +1,56 @@
+nct_id,brief_title,overall_status,conditions,phases,min_age,max_age,sex,healthy_volunteers,central_contacts,facility,city,state,zip,site_status,lat,lon,site_contacts,brief_summary,eligibility_criteria,url
+NCT00000001,Metformin Plus Exercise in Type 2 Diabetes,RECRUITING,Type 2 Diabetes,PHASE2,40 Years,75 Years,ALL,False,Jane Doe; CONTACT; 617-555-0100; jane@example.org,Mass General Hospital,Boston,Massachusetts,02114,RECRUITING,,,Bob Site; CONTACT; 617-555-0101; bob@mgh.org,Tests metformin with an exercise program.,"Inclusion Criteria:
+
+* Adults aged 40 to 75 years
+* Diagnosis of type 2 diabetes
+* HbA1c between 7.0% and 10.5%
+
+Exclusion Criteria:
+
+* Type 1 diabetes
+* Pregnancy",https://clinicaltrials.gov/study/NCT00000001
+NCT00000001,Metformin Plus Exercise in Type 2 Diabetes,RECRUITING,Type 2 Diabetes,PHASE2,40 Years,75 Years,ALL,False,Jane Doe; CONTACT; 617-555-0100; jane@example.org,UMass Memorial,Worcester,Massachusetts,01655,RECRUITING,,,,Tests metformin with an exercise program.,"Inclusion Criteria:
+
+* Adults aged 40 to 75 years
+* Diagnosis of type 2 diabetes
+* HbA1c between 7.0% and 10.5%
+
+Exclusion Criteria:
+
+* Type 1 diabetes
+* Pregnancy",https://clinicaltrials.gov/study/NCT00000001
+NCT00000001,Metformin Plus Exercise in Type 2 Diabetes,RECRUITING,Type 2 Diabetes,PHASE2,40 Years,75 Years,ALL,False,Jane Doe; CONTACT; 617-555-0100; jane@example.org,Baystate,Springfield,Massachusetts,01199,NOT_YET_RECRUITING,,,X; CONTACT; 1,Tests metformin with an exercise program.,"Inclusion Criteria:
+
+* Adults aged 40 to 75 years
+* Diagnosis of type 2 diabetes
+* HbA1c between 7.0% and 10.5%
+
+Exclusion Criteria:
+
+* Type 1 diabetes
+* Pregnancy",https://clinicaltrials.gov/study/NCT00000001
+NCT00000001,Metformin Plus Exercise in Type 2 Diabetes,RECRUITING,Type 2 Diabetes,PHASE2,40 Years,75 Years,ALL,False,Jane Doe; CONTACT; 617-555-0100; jane@example.org,Tufts Medical Center,Boston,Massachusetts,02111,RECRUITING,,,Dr. PI Only; PRINCIPAL_INVESTIGATOR,Tests metformin with an exercise program.,"Inclusion Criteria:
+
+* Adults aged 40 to 75 years
+* Diagnosis of type 2 diabetes
+* HbA1c between 7.0% and 10.5%
+
+Exclusion Criteria:
+
+* Type 1 diabetes
+* Pregnancy",https://clinicaltrials.gov/study/NCT00000001
+NCT00000002,Imaging Study in Breast Cancer,RECRUITING,Breast Cancer; Metastatic Breast Cancer,,,,FEMALE,,,Dana-Farber Cancer Institute,Boston,Massachusetts,02215,RECRUITING,,,,A new PET tracer for metastatic disease.,"Inclusion Criteria:
+
+* Women with metastatic breast cancer
+
+Exclusion Criteria:
+
+* Prior chemotherapy",https://clinicaltrials.gov/study/NCT00000002
+NCT00000003,Sleep and Memory in Healthy Adults,RECRUITING,Sleep,NA,18 Years,,,True,Sam Lead; CONTACT; sam@example.org,Boston University,Boston,Massachusetts,02215,ACTIVE_NOT_RECRUITING,,,,How sleep affects memory.,"Inclusion Criteria:
+
+* Healthy volunteers
+* Able to give consent
+
+Exclusion Criteria:
+
+* Diabetes",https://clinicaltrials.gov/study/NCT00000003

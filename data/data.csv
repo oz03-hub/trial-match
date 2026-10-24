@@ -1,0 +1,85 @@
+facility_id,facility_name,city,county,hospital_type,ownership,emergency,overall_rating
+220001,UMASS MEMORIAL HEALTHALLIANCE HOSPITALS,LEOMINSTER,WORCESTER,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3
+220002,MOUNT AUBURN HOSPITAL,CAMBRIDGE,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220008,STURDY MEMORIAL HOSPITAL,ATTLEBORO,BRISTOL,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3
+220010,MERRIMACK HEALTH LAWRENCE HOSPITAL,LAWRENCE,ESSEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220011,CAMBRIDGE HEALTH ALLIANCE,CAMBRIDGE,MIDDLESEX,Acute Care Hospitals,Government - Local,Yes,3
+220012,CAPE COD HOSPITAL,HYANNIS,BARNSTABLE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220015,"COOLEY DICKINSON HOSPITAL INC,THE",NORTHAMPTON,HAMPSHIRE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220016,BAYSTATE FRANKLIN MEDICAL CENTER,GREENFIELD,FRANKLIN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220017,CARNEY HOSPITAL,BOSTON,SUFFOLK,Acute Care Hospitals,Proprietary,Yes,Not Available
+220019,UMASS MEMORIAL HEALTH - HARRINGTON HOSPITAL,SOUTHBRIDGE,WORCESTER,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+22001F,BEDFORD VA MEDICAL CENTER,BEDFORD,MIDDLESEX,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available
+220020,SAINT ANNE'S HOSPITAL,FALL RIVER,BRISTOL,Acute Care Hospitals,Proprietary,Yes,3
+220024,HOLYOKE MEDICAL CENTER,HOLYOKE,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220029,ANNA JAQUES HOSPITAL,NEWBURYPORT,ESSEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220030,BAYSTATE WING HOSPITAL,PALMER,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4
+220031,BOSTON MEDICAL CENTER,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220033,NORTHEAST HOSPITAL CORPORATION,BEVERLY,ESSEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220035,NORTH SHORE MEDICAL CENTER -,SALEM,ESSEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220036,BOSTON MEDICAL CENTER-BRIGHTON,BRIGHTON,SUFFOLK,Acute Care Hospitals,Proprietary,Yes,3
+220046,BERKSHIRE MEDICAL CENTER,PITTSFIELD,BERKSHIRE,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4
+220049,MARLBOROUGH HOSPITAL,MARLBOROUGH,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220052,SIGNATURE HEALTHCARE BROCKTON HOSPITAL,BROCKTON,PLYMOUTH,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3
+220060,BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH,PLYMOUTH,PLYMOUTH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220062,ADCARE HOSPITAL OF WORCESTER INC,WORCESTER,WORCESTER,Acute Care Hospitals,Proprietary,No,Not Available
+220063,LOWELL GENERAL HOSPITAL,LOWELL,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220065,BAYSTATE NOBLE HOSPITAL,WESTFIELD,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220066,MERCY MEDICAL CTR,SPRINGFIELD,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220070,MELROSEWAKEFIELD HEALTHCARE,MELROSE,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220071,MASSACHUSETTS GENERAL HOSPITAL,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220073,BROWN UNIVERSITY HEALTH MORTON HOSPITAL,TAUNTON,BRISTOL,Acute Care Hospitals,Proprietary,Yes,1
+220074,SOUTHCOAST HOSPITALS GROUP,FALL RIVER,BRISTOL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220075,MASSACHUSETTS EYE AND EAR INFIRMARY -,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available
+220077,BAYSTATE MEDICAL CENTER,SPRINGFIELD,HAMPDEN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220080,HOLY FAMILY HOSPITAL,METHUEN,ESSEX,Acute Care Hospitals,Proprietary,Yes,2
+220083,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM,NEEDHAM,NORFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220084,EMERSON HOSPITAL -,W CONCORD,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220086,BETH ISRAEL DEACONESS MEDICAL CENTER,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220088,NEW ENGLAND BAPTIST HOSPITAL,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,No,5
+220090,MILFORD REGIONAL MEDICAL CENTER,MILFORD,WORCESTER,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4
+220095,HEYWOOD HOSPITAL -,GARDNER,WORCESTER,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220098,NASHOBA VALLEY MEDICAL CENTER,AYER,MIDDLESEX,Acute Care Hospitals,Proprietary,Yes,Not Available
+22009F,NORTHAMPTON VA MEDICAL CENTER,LEEDS,HAMPSHIRE,Acute Care - Veterans Administration,Veterans Health Administration,No,Not Available
+220100,SOUTH SHORE HOSPITAL,SOUTH WEYMOUTH,NORFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220101,NEWTON-WELLESLEY HOSPITAL,NEWTON,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220105,WINCHESTER HOSPITAL,WINCHESTER,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220108,BETH ISRAEL DEACONESS HOSPITAL - MILTON,MILTON,NORFOLK,Acute Care Hospitals,Government - Federal,Yes,4
+22010F,VA BOSTON HEALTHCARE SYSTEM - JAMAICA PLAIN,JAMAICA PLAIN,SUFFOLK,Acute Care - Veterans Administration,Veterans Health Administration,Yes,4
+220110,BRIGHAM AND WOMEN'S HOSPITAL,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220111,GOOD SAMARITAN MEDICAL CENTER,BROCKTON,PLYMOUTH,Acute Care Hospitals,Proprietary,Yes,2
+220116,TUFTS MEDICAL CENTER,BOSTON,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2
+220119,BRIGHAM AND WOMEN FAULKNER HOSPITAL,JAMAICA PLAIN,SUFFOLK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5
+220126,NORWOOD HOSPITAL,NORWOOD,NORFOLK,Acute Care Hospitals,Proprietary,Yes,Not Available
+220135,FALMOUTH HOSPITAL,FALMOUTH,BARNSTABLE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220163,UMASS MEMORIAL MEDICAL CENTER/UNIVERSITY CAMPUS,WORCESTER,WORCESTER,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+220171,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",BURLINGTON,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4
+220175,METROWEST MEDICAL CENTER,FRAMINGHAM,MIDDLESEX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1
+220176,ST VINCENT HOSPITAL,WORCESTER,WORCESTER,Acute Care Hospitals,Proprietary,Yes,2
+220177,NANTUCKET COTTAGE HOSPITAL,NANTUCKET,NANTUCKET,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3
+221300,MARTHA'S VINEYARD HOSPITAL INC,OAK BLUFFS,DUKES,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4
+221302,FAIRVIEW HOSPITAL,GREAT BARRINGTON,BERKSHIRE,Critical Access Hospitals,Voluntary non-profit - Private,Yes,5
+221303,ATHOL MEMORIAL HOSPITAL,ATHOL,WORCESTER,Critical Access Hospitals,Voluntary non-profit - Private,Yes,2
+221304,NORTH ADAMS REGIONAL HOSPITAL CORPORATION,NORTH ADAMS,BERKSHIRE,Critical Access Hospitals,Government - Federal,Yes,Not Available
+223300,FRANCISCAN CHILDREN'S HOSPITAL & REHAB CENTER,BRIGHTON,SUFFOLK,Childrens,Voluntary non-profit - Private,No,Not Available
+223302,BOSTON CHILDREN'S HOSPITAL,BOSTON,SUFFOLK,Childrens,Voluntary non-profit - Private,Yes,Not Available
+223304,THE SHRINERS' HOSPITAL FOR CHILDREN - BOSTON,BOSTON,SUFFOLK,Childrens,Proprietary,No,Not Available
+224001,TAUNTON STATE HOSPITAL,TAUNTON,BRISTOL,Psychiatric,Government - State,No,Not Available
+224007,MCLEAN HOSPITAL CORPORATION,BELMONT,MIDDLESEX,Psychiatric,Voluntary non-profit - Private,No,Not Available
+224013,ARBOUR HOSPITAL,BOSTON,SUFFOLK,Psychiatric,Proprietary,No,Not Available
+224018,ARBOUR HUMAN RESOURCE INSTITUTE,BROOKLINE,NORFOLK,Psychiatric,Proprietary,No,Not Available
+224021,ARBOUR-FULLER HOSPITAL,SOUTH ATTLEBORO,BRISTOL,Psychiatric,Proprietary,No,Not Available
+224022,BOURNEWOOD HOSPITAL,BROOKLINE,MIDDLESEX,Psychiatric,Proprietary,No,Not Available
+224023,WESTWOOD PEMBROKE HEALTH SYSTEMS,WESTWOOD,NORFOLK,Psychiatric,Proprietary,Yes,Not Available
+224028,DR JOHN C CORRIGAN MENTAL HEALTH CENTER,FALL RIVER,BRISTOL,Psychiatric,Government - State,No,Not Available
+224031,CAPE COD & ISLANDS COMMUNITY MENTAL HEALTH CENTER,POCASSET,BARNSTABLE,Psychiatric,Government - State,No,Not Available
+224032,WORCESTER RECOVERY CENTER AND HOSPITAL,WORCESTER,WORCESTER,Psychiatric,Government - State,No,Not Available
+224038,"WALDEN BEHAVIORAL CARE, LLC",DEDHAM,NORFOLK,Psychiatric,Government - Federal,No,Not Available
+224039,WHITTIER PAVILION,HAVERHILL,ESSEX,Psychiatric,Proprietary,No,Not Available
+224040,DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER,BOSTON,SUFFOLK,Psychiatric,Government - State,No,Not Available
+224041,SOUTHCOAST BEHAVIORAL HEALTH,DARTMOUTH,BRISTOL,Psychiatric,Proprietary,No,Not Available
+224043,TARAVISTA BEHAVIORAL HEALTH CENTER,DEVENS,WORCESTER,Psychiatric,Proprietary,No,Not Available
+224044,WESTBOROUGH BEHAVIORAL HEALTHCARE HOSPITAL LLC,WESTBOROUGH,WORCESTER,Psychiatric,Proprietary,No,Not Available
+224045,HOSPITAL FOR BEHAVIORAL MEDICINE,WORCESTER,WORCESTER,Psychiatric,Proprietary,No,Not Available
+224046,MIRAVISTA BEHAVIORAL HEALTH CENTER,HOLYOKE,HAMPDEN,Psychiatric,Proprietary,No,Not Available
+224047,VALLEY SPRINGS BEHAVIORAL HEALTH HOSPITAL,HOLYOKE,HAMPDEN,Psychiatric,Proprietary,No,Not Available
